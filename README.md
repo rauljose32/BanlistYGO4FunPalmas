@@ -2,9 +2,9 @@
 ## Decks Banidos
 Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser usados em torneios 4Fun:
 |Nome do deck|Link com decklist|
-------------|-----------------
-|Dino|[link](https://ygoprodeck.com/deck/arthur-dino-s-fury-298696)|
-@Ignister|[link]()
+|------------|-----------------|
+|    Dino    |[link](https://ygoprodeck.com/deck/arthur-dino-s-fury-298696)|
+|@Ignister|[link]()|
 Sky Striker|[link]()
 Adventurer Token|[link]()
 Salamangreat|[link]()
