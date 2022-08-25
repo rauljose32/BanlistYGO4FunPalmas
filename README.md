@@ -3,28 +3,28 @@ Além das cartas já banidas oficialmente: [Forbidden & Limited Lists](https://w
 Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser usados em torneios 4Fun:
 Nome do deck|Link com decklist
 ------------|-----------------
-Therion|[link]()link
-Dino|[link]()link
-@Ignister|[link]()link
-Sky Striker|[link]()link
-Adventurer Token|[link]()link
-Salamangreat|[link]()link
-Virtual World|[link]()link
-Mystic Mine/Burn|[link]()link
-Subterror|[link]()link
-Infernoid|[link]()link
-Speedroid|[link]()link
-Hero|[link]()link
-Branded|[link]()link
-Orcust|[link]()link
-Mekk-Knight|[link]()link
-Mathmech|[link]()link
-Eldlich|[link]()link
-Adamancipator|[link]()link
-Shaddoll|[link]()link
-Invoked|[link]()link
-Tibrigade|[link]()link
-Dragon Link|[link]()link
-P.U.N.K|[link]()link
-Drytron|[link]()link
-Floowanderize
+Therion|[link]()
+Dino|[link]()
+@Ignister|[link]()
+Sky Striker|[link]()
+Adventurer Token|[link]()
+Salamangreat|[link]()
+Virtual World|[link]()
+Mystic Mine/Burn|[link]()
+Subterror|[link]()
+Infernoid|[link]()
+Speedroid|[link]()
+Hero|[link]()
+Branded|[link]()
+Orcust|[link]()
+Mekk-Knight|[link]()
+Mathmech|[link]()
+Eldlich|[link]()
+Adamancipator|[link]()
+Shaddoll|[link]()
+Invoked|[link]()
+Tibrigade|[link]()
+Dragon Link|[link]()
+P.U.N.K|[link]()
+Drytron|[link]()
+Floowanderize|[link]()
