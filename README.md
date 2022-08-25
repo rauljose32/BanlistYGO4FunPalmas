@@ -3,8 +3,7 @@ Além das cartas já banidas oficialmente: [Forbidden & Limited Lists](https://w
 Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser usados em torneios 4Fun:
 Nome do deck|Link com decklist
 ------------|-----------------
-Therion|[link]()
-Dino|[link]()
+Dino|[link](https://ygoprodeck.com/deck/arthur-dino-s-fury-298696)
 @Ignister|[link]()
 Sky Striker|[link]()
 Adventurer Token|[link]()
@@ -23,8 +22,9 @@ Eldlich|[link]()
 Adamancipator|[link]()
 Shaddoll|[link]()
 Invoked|[link]()
-Tibrigade|[link]()
+Tri-brigade|[link]()
 Dragon Link|[link]()
 P.U.N.K|[link]()
 Drytron|[link]()
 Floowanderize|[link]()
+Dinomorphia|[link](https://ygoprodeck.com/deck/dinomorphia-deck-303196)
