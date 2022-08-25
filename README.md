@@ -28,11 +28,25 @@ P.U.N.K|[link]()
 Drytron|[link]()
 Floowanderize|[link]()
 Dinomorphia|[link](https://ygoprodeck.com/deck/dinomorphia-deck-303196)
+Exosister|[link]()
+Tearlament|[link]()
+Splight|[link]()
 
 #### Cada deck possui um link com uma decklist de amostra apenas para dar noção do que pertence ao arquetipo
 
+Para promover jogos mais "justos" e com menos cartas de auto-win além das cartas já banidas, limitadas e semi-limitadas oficialmente: [Forbidden & Limited Lists](https://www.yugioh-card.com/en/limited/list_05-2022/) as seguintes cartas estão banidas:
+
 ## Cartas Banidas
-Além das cartas já banidas oficialmente: [Forbidden & Limited Lists](https://www.yugioh-card.com/en/limited/list_05-2022/), as seguintes cartas não podem ser utilizadas:
 Nome|Link
 ----|----
 Fairy Tail - Snow|[link](https://ygoprodeck.com/card/fairy-tail-snow-4737)
+Artifact Scythe|[link](https://ygoprodeck.com/card/artifact-scythe-1741)
+
+## Cartas Limitadas
+Nome|link
+----|----
+
+
+## Cartas Semi-limitadas
+Nome|link
+----|----
