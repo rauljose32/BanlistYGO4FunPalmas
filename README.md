@@ -2,7 +2,7 @@
 Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser usados em torneios 4Fun:  
 [Dino](https://ygoprodeck.com/deck/dinosaur-deck-v2-281023)  
 [Endymion](https://ygoprodeck.com/deck/endymion-292633)  
-[Pendulum Magician](https://ygoprodeck.com/deck/pendulum-magician-302427)
+[Pendulum Magician](https://ygoprodeck.com/deck/pendulum-magician-302427)  
 [@Ignister](https://ygoprodeck.com/deck/ignister-298009)  
 [Sky Striker](https://ygoprodeck.com/deck/sky-striker-302416)  
 [Adventurer Token Variantes](https://ygoprodeck.com/deck/adventure-synchro-3rd-place-cool-stuff-games-hollywood-fl-zack-j-august-14-2022-302832)  
