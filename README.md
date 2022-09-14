@@ -2,7 +2,7 @@
 Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser usados em torneios 4Fun:  
 [@Ignister](https://ygoprodeck.com/deck/ignister-298009)  
 [Adamancipator](https://ygoprodeck.com/deck/tcg-adamancipator-post-pote-297769)  
-[Adventurer Token Variantes](https://ygoprodeck.com/deck/adventure-synchro-3rd-place-cool-stuff-games-hollywood-fl-zack-j-august-14-2022-302832)  
+[Adventurer Token](https://ygoprodeck.com/deck/adventure-synchro-3rd-place-cool-stuff-games-hollywood-fl-zack-j-august-14-2022-302832)  
 [Branded](https://ygoprodeck.com/deck/invoked-branded-302680)  
 [Burn](https://ygoprodeck.com/deck/mystic-mine-burn-261177)  
 [Code talker](https://ygoprodeck.com/deck/code-talker-299980)  
