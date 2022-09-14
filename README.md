@@ -3,12 +3,10 @@ Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser us
 [@Ignister](https://ygoprodeck.com/deck/ignister-298009)  
 [Adamancipator](https://ygoprodeck.com/deck/tcg-adamancipator-post-pote-297769)  
 [Adventurer Token](https://ygoprodeck.com/deck/adventure-synchro-3rd-place-cool-stuff-games-hollywood-fl-zack-j-august-14-2022-302832)  
-[Branded](https://ygoprodeck.com/deck/invoked-branded-302680)  
-[Burn](https://ygoprodeck.com/deck/mystic-mine-burn-261177)  
+[Branded/Despia](https://ygoprodeck.com/deck/invoked-branded-302680)    
 [Code talker](https://ygoprodeck.com/deck/code-talker-299980)  
 [Crusadia]()  
-[Cyber Dragon](https://ygoprodeck.com/deck/cyber-dragon-302566)  
-[Despia]()  
+[Cyber Dragon](https://ygoprodeck.com/deck/cyber-dragon-302566)
 [Dinomorphia](https://ygoprodeck.com/deck/dinomorphia-deck-303196)  
 [Dogmatica]()  
 [Dragon Link](https://ygoprodeck.com/deck/dragon-link-8-302782)  
@@ -35,7 +33,6 @@ Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser us
 [Rikka](https://ygoprodeck.com/deck/sunavalon-rikka-303004)  
 [Salamangreat](https://ygoprodeck.com/deck/salamangreat-303035)  
 [Shaddoll](https://ygoprodeck.com/deck/best-shaddoll-ft-red-cartesia-300634)  
-[Shark](https://ygoprodeck.com/deck/shark-302339)  
 [Sky Striker](https://ygoprodeck.com/deck/sky-striker-302416)  
 [Speedroid](https://ygoprodeck.com/deck/speedroids-278523)  
 [Splight](https://ygoprodeck.com/deck/spright-frog-301009)  
@@ -50,7 +47,7 @@ Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser us
 Cada deck possui um link com uma decklist de amostra apenas para dar noção do que pertence ao arquetipo  
 
 ## Cartas Banidas  
-Para promover jogos mais "justos" e com menos cartas de auto-win, além das cartas já banidas, limitadas e semi-limitadas oficialmente: [Forbidden & Limited Lists](https://www.yugioh-card.com/en/limited/list_05-2022/) as seguintes cartas estão:
+Para promover jogos mais "justos" e com menos cartas de auto-win, além das cartas já banidas, limitadas e semi-limitadas oficialmente [Forbidden & Limited Lists](https://www.yugioh-card.com/en/limited/list_05-2022/) as seguintes cartas estão:
 
 ### Banidas  
 #### Monstros  
@@ -86,8 +83,7 @@ Para promover jogos mais "justos" e com menos cartas de auto-win, além das cart
 #### Armadilhas  
 [And the Band Played On](https://ygoprodeck.com/card/and-the-band-played-on-4062)  
 [Anti-Spell Fragrance](https://ygoprodeck.com/card/anti-spell-fragrance-5011)  
-[Gozen Match](https://ygoprodeck.com/card/gozen-match-4544)  
-[Lose 1 Turn](https://ygoprodeck.com/card/lose-1-turn-2104)  
+[Gozen Match](https://ygoprodeck.com/card/gozen-match-4544)    
 [Macro Cosmos](https://ygoprodeck.com/card/macro-cosmos-2562)  
 [Mistake](https://ygoprodeck.com/card/mistake-5041)  
 [Rivalry of Warlords](https://ygoprodeck.com/card/rivalry-of-warlords-7585) 
@@ -99,6 +95,8 @@ Para promover jogos mais "justos" e com menos cartas de auto-win, além das cart
 #### Fusões
 [The Last Warrior from Another Planet](https://ygoprodeck.com/card/the-last-warrior-from-another-planet-7211)  
 
+#### XYZ
+[Toadally Awesome](https://ygoprodeck.com/card/toadally-awesome-7582)
 
 ### Limitadas  
 
