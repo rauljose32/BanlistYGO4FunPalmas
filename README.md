@@ -60,6 +60,7 @@ Para promover jogos mais "justos" e com menos cartas de auto-win, além das cart
 [Barrier Statue of the Torrent](https://ygoprodeck.com/card/barrier-statue-of-the-torrent-942)  
 [Djinn Releaser of Rituals](https://ygoprodeck.com/card/djinn-releaser-of-rituals-754)  
 [Fairy Tail - Snow](https://ygoprodeck.com/card/fairy-tail-snow-4737)  
+[Fallen of Albaz](https://ygoprodeck.com/card/fallen-of-albaz-11098) e todas as cartas que o citem.  
 [Fossil Dyna Pachycephalo](https://ygoprodeck.com/card/fossil-dyna-pachycephalo-3582)  
 [Kycoo the Ghost Destroyer](https://ygoprodeck.com/card/kycoo-the-ghost-destroyer-7379)  
 [Majesty's Fiend](https://ygoprodeck.com/card/majesty-s-fiend-2864)  
@@ -95,7 +96,8 @@ Para promover jogos mais "justos" e com menos cartas de auto-win, além das cart
 [The Last Warrior from Another Planet](https://ygoprodeck.com/card/the-last-warrior-from-another-planet-7211)  
 
 #### XYZ
-[Toadally Awesome](https://ygoprodeck.com/card/toadally-awesome-7582)
+[Toadally Awesome](https://ygoprodeck.com/card/toadally-awesome-7582)  
+[Number 39: Utopia Double](https://ygoprodeck.com/card/number-39-utopia-double-9951)  
 
 ### Limitadas  
 
