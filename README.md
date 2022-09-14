@@ -40,7 +40,7 @@ Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser us
 [Tri-brigade](https://ygoprodeck.com/deck/tri-brigade-301755)  
 [True Draco](https://ygoprodeck.com/deck/true-draco-july-2022-298218)  
 [Virtual World](https://ygoprodeck.com/deck/virtual-world-302327)  
-[Zombie](https://ygoprodeck.com/deck/z-o-m-b-i-e-302564)  
+[Zombie World](https://ygoprodeck.com/deck/z-o-m-b-i-e-302564)  
  
 
 Cada deck possui um link com uma decklist de amostra, apenas para dar noção do que pertence ao arquetipo.  
