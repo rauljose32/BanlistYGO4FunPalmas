@@ -6,7 +6,7 @@ Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser us
 [Branded/Despia](https://ygoprodeck.com/deck/invoked-branded-302680)    
 [Code talker](https://ygoprodeck.com/deck/code-talker-299980)  
 [Crusadia](https://ygoprodeck.com/deck/crusade-for-the-future-302542)  
-[Cyber Dragon](https://ygoprodeck.com/deck/cyber-dragon-302566)
+[Cyber Dragon](https://ygoprodeck.com/deck/cyber-dragon-302566)  
 [Dinomorphia](https://ygoprodeck.com/deck/dinomorphia-deck-303196)  
 [Dragon Link](https://ygoprodeck.com/deck/dragon-link-8-302782)  
 [Drytron](https://ygoprodeck.com/deck/k-s-drytron-deck-302907)  
