@@ -43,7 +43,7 @@ Os seguintes decks (e cartas pertencentes ao seu arquetipo) não poderão ser us
 [Zombie](https://ygoprodeck.com/deck/z-o-m-b-i-e-302564)  
  
 
-Cada deck possui um link com uma decklist de amostra apenas para dar noção do que pertence ao arquetipo  
+Cada deck possui um link com uma decklist de amostra, apenas para dar noção do que pertence ao arquetipo.  
 
 ## Cartas Banidas  
 Para promover jogos mais "justos" e com menos cartas de auto-win, além das cartas já banidas, limitadas e semi-limitadas oficialmente [Forbidden & Limited Lists](https://www.yugioh-card.com/en/limited/list_05-2022/) as seguintes cartas estão:
@@ -85,7 +85,7 @@ Para promover jogos mais "justos" e com menos cartas de auto-win, além das cart
 [Gozen Match](https://ygoprodeck.com/card/gozen-match-4544)    
 [Macro Cosmos](https://ygoprodeck.com/card/macro-cosmos-2562)  
 [Mistake](https://ygoprodeck.com/card/mistake-5041)  
-[Rivalry of Warlords](https://ygoprodeck.com/card/rivalry-of-warlords-7585) 
+[Rivalry of Warlords](https://ygoprodeck.com/card/rivalry-of-warlords-7585)  
 [Skill Drain](https://ygoprodeck.com/card/skill-drain-6952)  
 [Summon Limit](https://ygoprodeck.com/card/summon-limit-2026)  
 [There Can Be Only One](https://ygoprodeck.com/card/there-can-be-only-one-9026)  
